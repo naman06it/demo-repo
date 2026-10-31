@@ -1,4 +1,5 @@
-# demo-repo
+ # demo-repo
 this is my first repoooo
 <br>
-author: naman
+author: naman (naman kumar gupta)
+
